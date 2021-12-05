@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+```
+Run project: docker-compose up -d.
+Project running in port 3000
+```
